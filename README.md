@@ -11,7 +11,7 @@
 [![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
 [![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org)
+[![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
 [![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
 
 [![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
@@ -33,7 +33,7 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 
 ## • About Me •
