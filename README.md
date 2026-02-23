@@ -27,6 +27,7 @@
 [![Cypress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=white)](https://cypress.io)
 
 [![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
+[![Firebase](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white)](https://firebase.google.com)
 
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
